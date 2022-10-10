@@ -21,7 +21,5 @@ public class TeacherRepository {
         return teachers.stream().filter(teacher -> teacher.getCode().equals(code)).findAny().orElse(null);
     }
 
-    public void addTeacher(Teacher t) {
-        this.teachers.add(t);
-    }
+    public void addTeacher(Teacher t) {this.teachers.add(t);}
 }

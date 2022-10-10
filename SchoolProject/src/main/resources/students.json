@@ -4,13 +4,203 @@
     "name": "John Doe",
     "age": "11",
     "grade": "MIDDLE_SCHOOL",
-    "score": "B"
+    "score": "B",
+    "subjects": [
+      {
+        "name": "Math",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Science",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Ethics",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Religion",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Computing",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      }
+    ]
   },
   {
     "code": "ST-02-Tom",
     "name": "Tom Lee",
     "age": "14",
     "grade": "MIDDLE_SCHOOL",
-    "score": "C"
+    "score": "C",
+    "subjects": [
+      {
+        "name": "Math",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Science",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Ethics",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Religion",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      },
+      {
+        "name": "Computing",
+        "teacher": "TE-01-Jason",
+        "grade": "MIDDLE_SCHOOL"
+      }
+    ]
+  },
+  {
+    "code": "ST-03-Stephanie",
+    "name": "Stephanie Lood",
+    "age": "14",
+    "grade": "ELEMENTARY_SCHOOL",
+    "score": "B",
+    "subjects": [
+      {
+        "name": "Math",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Science",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Ethics",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Religion",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Computing",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      }
+    ]
+  },
+  {
+    "code": "ST-04-Lee",
+    "name": "Lee Thomson",
+    "age": "14",
+    "grade": "HIGH_SCHOOL",
+    "score": "D",
+    "subjects": [
+      {
+        "name": "Math",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Science",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Ethics",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Religion",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Computing",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      }
+    ]
+  },
+  {
+    "code": "ST-05-Mia",
+    "name": "Mia Anderson",
+    "age": "16",
+    "grade": "HIGH_SCHOOL",
+    "score": "A",
+    "subjects": [
+      {
+        "name": "Math",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Science",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Ethics",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Religion",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      },
+      {
+        "name": "Computing",
+        "teacher": "TE-01-Jason",
+        "grade": "HIGH_SCHOOL"
+      }
+    ]
+  },
+  {
+    "code": "ST-06-Alex",
+    "name": "Alex Melson",
+    "age": "14",
+    "grade": "ELEMENTARY_SCHOOL",
+    "score": "A",
+    "subjects": [
+      {
+        "name": "Math",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Science",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Ethics",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Religion",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      },
+      {
+        "name": "Computing",
+        "teacher": "TE-01-Jason",
+        "grade": "ELEMENTARY_SCHOOL"
+      }
+    ]
   }
 ]

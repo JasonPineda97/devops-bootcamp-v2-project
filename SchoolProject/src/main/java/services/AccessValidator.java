@@ -9,9 +9,9 @@ public class AccessValidator {
     private StudentRepository studentRepository;
     private TeacherRepository teacherRepository;
 
-    public AccessValidator(StudentRepository studentRepository) {
+    public AccessValidator(StudentRepository studentRepository, TeacherRepository teacherRepository) {
         this.studentRepository = studentRepository;
-        this.teacherRepository = new TeacherRepository();
+        this.teacherRepository = teacherRepository;
     }
 
     public Student verifyStudentAccess(String code) {
@@ -20,6 +20,7 @@ public class AccessValidator {
     }
 
     public Teacher verifyTeacherAccess(String code) {
+        System.out.println("size: " + this.teacherRepository.getAllTeachers().size());
         return this.teacherRepository.getTeacherByCode(code);
     }
 }

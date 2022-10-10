@@ -1,0 +1,16 @@
+[
+  {
+    "code": "TE-01-Jason",
+    "name": "John Doe",
+    "age": "11",
+    "grade": "MIDDLE_SCHOOL",
+    "score": "B"
+  },
+  {
+    "code": "TE-02-David",
+    "name": "Tom Lee",
+    "age": "14",
+    "grade": "MIDDLE_SCHOOL",
+    "score": "C"
+  }
+]
